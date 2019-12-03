@@ -1,0 +1,13 @@
+D:\Users\Andrii.Borysenko\Desktop\SimpleDataService\bin\Release\netcoreapp2.1\SimpleDataService.deps.json
+D:\Users\Andrii.Borysenko\Desktop\SimpleDataService\bin\Release\netcoreapp2.1\SimpleDataService.runtimeconfig.json
+D:\Users\Andrii.Borysenko\Desktop\SimpleDataService\bin\Release\netcoreapp2.1\SimpleDataService.runtimeconfig.dev.json
+D:\Users\Andrii.Borysenko\Desktop\SimpleDataService\bin\Release\netcoreapp2.1\SimpleDataService.dll
+D:\Users\Andrii.Borysenko\Desktop\SimpleDataService\bin\Release\netcoreapp2.1\SimpleDataService.pdb
+D:\Users\Andrii.Borysenko\Desktop\SimpleDataService\obj\Release\netcoreapp2.1\SimpleDataService.csproj.CoreCompileInputs.cache
+D:\Users\Andrii.Borysenko\Desktop\SimpleDataService\obj\Release\netcoreapp2.1\SimpleDataService.RazorAssemblyInfo.cache
+D:\Users\Andrii.Borysenko\Desktop\SimpleDataService\obj\Release\netcoreapp2.1\SimpleDataService.RazorAssemblyInfo.cs
+D:\Users\Andrii.Borysenko\Desktop\SimpleDataService\obj\Release\netcoreapp2.1\SimpleDataService.AssemblyInfoInputs.cache
+D:\Users\Andrii.Borysenko\Desktop\SimpleDataService\obj\Release\netcoreapp2.1\SimpleDataService.AssemblyInfo.cs
+D:\Users\Andrii.Borysenko\Desktop\SimpleDataService\obj\Release\netcoreapp2.1\SimpleDataService.RazorTargetAssemblyInfo.cache
+D:\Users\Andrii.Borysenko\Desktop\SimpleDataService\obj\Release\netcoreapp2.1\SimpleDataService.dll
+D:\Users\Andrii.Borysenko\Desktop\SimpleDataService\obj\Release\netcoreapp2.1\SimpleDataService.pdb
